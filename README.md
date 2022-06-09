@@ -9,7 +9,7 @@ Project aims to create survey form within html and css.
 
 In this project I used:
 
-- HTML Forms-Input Types (text, number, checkbox, radio,)
+- HTML Forms-Input Types (text, number, checkbox, radio)
 
 - HTML Form Elements (input, label, select, textarea, button)
 
