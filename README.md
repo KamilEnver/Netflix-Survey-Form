@@ -1,7 +1,25 @@
 # Netflix-Survey-Form
 
-# Description <hr>
+# Description
 Project aims to create survey form within html and css.
-<br>
-[click here to see the project]()
-There is a surveyform of Netflix in here. A dropdown list, a checkbox list, radio buttons, a multi-line input field, a submit button are used and there are input fields that has different types(number,email,text) for data (name,age and email)in this project.
+<br><br>
+[Click here to see the project](https://kamilenver.github.io/Netflix-Survey-Form/) <br>
+
+# Objective
+
+In this project I used:
+
+- HTML Forms-Input Types (text, number, checkbox, radio,)
+
+- HTML Form Elements (input, label, select, textarea, button)
+
+- CSS Colors-Border Properties
+
+- CSS Margins-Padding
+
+- CSS Properties for Texts-Font Families-Links
+
+- Favicon image
+
+Functionally create a Survey Form as in the image below <br><br>
+![](https://github.com/KamilEnver/Netflix-Survey-Form/blob/main/img/Project_001_.png)
